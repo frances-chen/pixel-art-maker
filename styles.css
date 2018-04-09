@@ -1,3 +1,4 @@
+/* General styling ----------------------------------- */
 body {
     text-align: center;
 }
@@ -37,4 +38,10 @@ td {
 
 input[type=number] {
     width: 6em;
+}
+
+/* Canvas styling ---------------------------------- */
+
+#pixelCanvas {
+    margin-top: 30px;
 }
